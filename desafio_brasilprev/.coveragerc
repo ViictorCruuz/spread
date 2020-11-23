@@ -1,0 +1,3 @@
+[run]
+source = desafio_brasilprev
+omit = desafio_brasilprev/test*
